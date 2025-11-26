@@ -1,11 +1,35 @@
 # Excel-Sales-Analysis
-“This project includes sales data cleaning, analysis, dashboards, and insights using Excel.” 
 
-## Project Workflow — Step by Step
+“This project includes sales data cleaning, analysis, dashboards and insights using Excel.” 
+
+# Project Objective
+
+This project aims to analyze sales performance using Excel by cleaning raw data, generating pivot tables and designing an interactive dashboard that helps identify trends, customer behavior and top business insights.
+
+# Key KPIs
+   - Total Sales
+   - Total Orders
+   - Sales by Gender (%)
+   - Sales by Channel
+   - Top Performing States
+   - Monthly Sales Trend
+   - Order Status Distribution
+
+# Key Insights
+   - Women are more likely to buy compared to men (~65%)
+   - Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+   - Adult age group (30-49 yrs) is max contributing (~50%)
+   - Amazon, Flipkart and Myntra channels are max contributing (~80%)
+   - March show peak sales
+
+# Recommendations to Improve Sales
+Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+
+## Project Workflow 
 
 1. **Data Import**
    - Open Retail Store dataset (31,048 rows) in Excel.
-   - Inspect column names, data types, and row/column counts.
+   - Inspect column names, data types and row/column counts.
 
 2. **Data Formatting & Cleaning**
    - Correct data types (dates, numbers, text).
